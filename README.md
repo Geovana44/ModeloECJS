@@ -1,3 +1,18 @@
+
+Welfare Optimization in Energy Communities with P2P Markets
+Sofía Chacón
+Departamento de Electrónica, Universidad de Nariño, Pasto, Colombia
+sgchacon@udenar.edu.co
+Katerine Guerrero
+Fundación Centro de Investigación y Desarrollo Tecnológico en Ciencias Aplicadas, Pasto, Colombia
+dkgmontero13@gmail.com
+Germán Obando
+Departamento de Electrónica, Universidad de Nariño, Pasto, Colombia
+gdobando@udenar.edu.co
+Andrés Pantoja
+Departamento de Electrónica, Universidad de Nariño, Pasto, Colombia
+ad_pantoja@udenar.edu.co
+
 Descripción del Proyecto
 Este repositorio contiene la implementación de un algoritmo de maximización del bienestar conjunto en una comunidad de prosumidores, utilizando un enfoque de juego de Stackelberg. El proyecto incluye código en Python y MATLAB, así como archivos de datos en Excel para la simulación y validación del modelo.
 
