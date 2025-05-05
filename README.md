@@ -1,14 +1,18 @@
 
-Welfare Optimization in Energy Communities with P2P Markets
+Welfare Optimization in Energy Communities with P2P Markets 
+
 Sofía Chacón
 Departamento de Electrónica, Universidad de Nariño, Pasto, Colombia
 sgchacon@udenar.edu.co
+
 Katerine Guerrero
 Fundación Centro de Investigación y Desarrollo Tecnológico en Ciencias Aplicadas, Pasto, Colombia
-dkgmontero13@gmail.com
+dkgmontero13@udenar.edu.co
+
 Germán Obando
 Departamento de Electrónica, Universidad de Nariño, Pasto, Colombia
 gdobando@udenar.edu.co
+
 Andrés Pantoja
 Departamento de Electrónica, Universidad de Nariño, Pasto, Colombia
 ad_pantoja@udenar.edu.co
